@@ -1,1 +1,1 @@
-# AZ-104
+# Azure Study Notes
